@@ -1,9 +1,8 @@
 import BinarySearchTree from '../binary-search-tree/BinarySearchTree';
 
 export default class AvlTree extends BinarySearchTree {
-  /**
-   * @param {*} value
-   */
+  /* @param {*} value*/
+   
   insert(value) {
   
     super.insert(value);
